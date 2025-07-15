@@ -1,0 +1,8 @@
+[Defines]
+  DEC_SPECIFICATION                   = 0x00010005
+  PACKAGE_NAME                        = qrd8550
+  PACKAGE_GUID                        = 9AE34C92-B319-4B7F-A865-6F5C84E2213B
+  PACKAGE_VERSION                     = 0.1
+
+[Guids]
+  gastonTokenSpaceGuid                = { 0x924ce39a, 0x19b3, 0x7f4b, 0xa8, 0x65, 0x6f, 0x5c, 0x84, 0xe2, 0x21, 0x3b } }
